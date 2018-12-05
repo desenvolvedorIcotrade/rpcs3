@@ -67,7 +67,7 @@ If you're not using precompiled libs, build the projects in *__BUILD_BEFORE* fol
 `Build > Build Solution`
 
 
-## Building on Windows (MinGW):
+### Building on Windows (MinGW):
 
 1) Install packages
 - `pacman -S base-devel mingw-w64-x86_64-toolchain mingw-w64-x86_64-cmake mingw-w64-x86_64-yasm mingw-w64-x86_64-python2 mingw-w64-x86_64-ntldd-git mingw-w64-x86_64-qt5 mingw-w64-x86_64-openal mingw-w64-x86_64-glew git`
